@@ -2,5 +2,5 @@
 name = "helloworld"
 version = "0.1.0"
 authors = ["Moritz Beller <moritzbeller@gmx.de>"]
-
+repository = "https://github.com/Inventitech/helloworld.rs"
 [dependencies]
